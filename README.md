@@ -10,6 +10,10 @@ SMOTE works by selecting examples close in the feature space, drawing a line bet
 <img src="Images/BenchmarkResults/DT.png" width='300px' height ='300px' > <img src="Images/BenchmarkResults/RF.png" width='300px' height ='300px' > 
 <img src="Images/BenchmarkResults/KNN.png" width='300px' height ='300px' > <img src="Images/BenchmarkResults/SVM.png" width='300px' height ='300px' >
 <img src="Images/BenchmarkResults/NB.png" width='300px' height ='300px' > <img src="Images/BenchmarkResults/XGBoost.png" width='300px' height ='300px' >
+# Benchmark Accuracy, Recall, Precision & f1-score
+
+<img src="Images/BenchmarkResults/Accuracy.png" width='450px' height ='400px' > <img src="Images/BenchmarkResults/Recall.png" width='450px' height ='400px' > 
+<img src="Images/BenchmarkResults/Precision.png" width='450px' height ='400px' > <img src="Images/BenchmarkResults/f1.png" width='450px' height ='400px' >
 
 # SMOTE Results
 <img src="Images/Smoteresults/DT.png" width='300px' height ='300px' > <img src="Images/Smoteresults/RF.png" width='300px' height ='300px' > 
