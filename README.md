@@ -31,6 +31,14 @@ SMOTE works by selecting examples close in the feature space, drawing a line bet
 <img src="Images/HyperparamterTuning/KNN.png" width='300px' height ='300px' > <img src="Images/HyperparamterTuning/SVM.png" width='300px' height ='300px' >
 <img src="Images/HyperparamterTuning/NB.png" width='300px' height ='300px' > <img src="Images/HyperparamterTuning/XGBoost.png" width='300px' height ='300px' >
 
+# Hyperparamter Tuning SMOTE Synthesized data's Accuracy, Recall, Precision & f1-score
+
+
+<img src="Images/HyperparamterTuning/Accuracy.png" width='450px' height ='400px' > <img src="Images/HyperparamterTuning/Recll.png" width='450px' height ='400px' > 
+<img src="Images/HyperparamterTuning/Precision.png" width='450px' height ='400px' > <img src="Images/HyperparamterTuning/f1.png" width='450px' height ='400px' >
+
+
+
 # Comparitive Anlaysis
 <img src="Images/Comparitiveresults/Final_accuracy.png" width='450px' height ='400px' > <img src="Images/Comparitiveresults/Final_recall.png" width='450px' height ='400px' > 
 
